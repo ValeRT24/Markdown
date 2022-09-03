@@ -1,4 +1,4 @@
-# Markdown Práctica 0
+# Markdown 
 <strong><em>Lo que he aprendido</em></strong>
 <p>Hasta ahora he aprendido:</>
  
