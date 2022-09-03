@@ -7,7 +7,7 @@
  * También el PCB de Pintos.
  * Sintaxis del lenguaje C y sus diferentes carácteristicas.
  * Las capas de un computer system.
- * Manejar Docker 
+ * Manejo de Docker 
  * CircleCI ya que no tenia conocimiento alguno acerca de esta plataforma.
  
  <strong><em>Lo que me confunde</em></strong>
