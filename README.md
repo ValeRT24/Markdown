@@ -14,5 +14,6 @@
  * Al leer el manual de Pintos no me quedo del todo claro la Calendarización.
  * La Dependecia circular.
  * Un poco el tema de apuntadores en C.
+ * Manejo de memoria en C.
 
 
